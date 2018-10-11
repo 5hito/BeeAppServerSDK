@@ -2,10 +2,11 @@
 Pod::Spec.new do |s|
 
   s.name         = "BeeAppServerSDK"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "客户端服务器"
   s.description  = <<-DESC
     0.0.x:服务器基础功能
+    0.1.0:bitcode
                    DESC
 
   s.homepage     = "https://github.com/5hito/BeeAppServerSDK"
